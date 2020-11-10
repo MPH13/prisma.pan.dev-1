@@ -1,8 +1,8 @@
 ---
 id: gcp_gke
-title: Kubernetes Engine
+title: Google Kubernetes Engine
 sidebar_label: GKE
-description: GCP Kubernetes Engine Queries
+description: Google Kubernetes Engine Queries
 ---
 
 # Sample RQL Queries
